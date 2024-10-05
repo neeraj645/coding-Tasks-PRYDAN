@@ -14,7 +14,7 @@ A simple web application that displays a list of PC products with a responsive g
 1. Open "Question-01" foler in vs-code.
 2. install "live server" extension(if not install)
 3. Run "index.html" file by live server.
-![Screenshot of the app](sample-images/screenshot1.png)
+![Screenshot of the app](sample-images/Screenshot1.png)
 
 
 # **Question-02: Newsletter Signup**
@@ -33,7 +33,7 @@ A responsive web form for users to sign up for a newsletter with real-time form 
 1. Open "Question-2" foler in vs-code.
 2. install "live server" extension(if not install)
 3. Run "index.html" file by live server.
-![Screenshot of the app](sample-images/screenshot2.png)
+![Screenshot of the app](sample-images/Screenshot2.png)
 
 
 
@@ -53,4 +53,4 @@ A dynamic webpage dedicated to ISRO's Mars Orbiter Mission (MOM) featuring a the
 1. Open "Question-3" foler in vs-code.
 2. install "live server" extension(if not install)
 3. Run "index.html" file by live server.
-![Screenshot of the app](sample-images/screenshot3.png)
+![Screenshot of the app](sample-images/Screenshot3.png)
