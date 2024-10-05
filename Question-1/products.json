@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "price": 499,
+        "image_url": "images/mouse.png",
+        "company": "DELL"
+    },
+    {
+        "id": 2,
+        "name": "wireless keyboard",
+        "price": 899,
+        "image_url": "images/keyboard.png",
+        "company": "ProDot"
+    },
+    {
+        "id": 3,
+        "name": "Bluetooth Speaker",
+        "price": 455,
+        "image_url": "images/speaker.png",
+        "company": "JBL"
+    },
+    {
+        "id": 4,
+        "name": "laptop battery",
+        "price": 120.0,
+        "image_url": "images/battery.png",
+        "company": "Toshiba"
+    },
+    {
+        "id": 5,
+        "name": "charger",
+        "price": 2000,
+        "image_url": "images/charger.png",
+        "company": "DELL"
+    },
+    {
+        "id": 6,
+        "name": "Cooking pad",
+        "price": 600,
+        "image_url": "images/cooling_pad.png",
+        "company": "Asus"
+    },
+    {
+        "id": 7,
+        "name": "graphic card",
+        "price": 4999,
+        "image_url": "images/graphic.png",
+        "company": "AMD"
+    },
+    {
+        "id": 8,
+        "name": "HDMI Cable",
+        "price": 299,
+        "image_url": "images/HDMI_cable.png",
+        "company": "Gigabyte"
+    },
+    {
+        "id": 9,
+        "name": "Heat Sink",
+        "price": 300,
+        "image_url": "images/heat_sink.png",
+        "company": "Intel"
+    },
+    {
+        "id": 10,
+        "name": "monitor",
+        "price": 8400,
+        "image_url": "images/monitor.png",
+        "company": "Acer"
+    },
+    {
+        "id": 11,
+        "name": "Motherboard",
+        "price": 15000,
+        "image_url": "images/motherboard.png",
+        "company": "Asus"
+    },
+    {
+        "id": 12,
+        "name": "pendrive",
+        "price": 600,
+        "image_url": "images/pendrive.png",
+        "company": "Sandisk"
+    },
+    {
+        "id": 13,
+        "name": "Ram",
+        "price": 65.5,
+        "image_url": "images/ram.png",
+        "company": "Cruciel"
+    },
+    {
+        "id": 14,
+        "name": "SSD",
+        "price": 5600,
+        "image_url": "images/ssd.png",
+        "company": "Samsung"
+    },
+    {
+        "id": 15,
+        "name": "Thermal Paste",
+        "price": 20,
+        "image_url": "images/thermal_paste.png",
+        "company": "Noctua"
+    },
+    {
+        "id": 16,
+        "name": "UPS",
+        "price": 2100,
+        "image_url": "images/ups.png",
+        "company": "Intex"
+    },
+    {
+        "id": 17,
+        "name": "USB Hub",
+        "price": 300,
+        "image_url": "images/usb_hub.png",
+        "company": "HP"
+    },
+    {
+        "id": 18,
+        "name": "Windows 10 CD",
+        "price": 1200,
+        "image_url": "images/windows_10.png",
+        "company": "Windows"
+    }
+]
